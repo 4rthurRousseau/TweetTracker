@@ -1,0 +1,3133 @@
+{
+    "statuses": [{
+        "metadata": {
+            "iso_language_code": "fr",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Jan 16 08:43:45 +0000 2015",
+        "id": 556008895156875264,
+        "id_str": "556008895156875264",
+        "text": "RT @MinaAsker: #Inde la diff\u00e9rence d\u2019\u00e9motion entre #JeSuisCharlie et le massacre commis par Boko Haram fait d\u00e9bat (Hindustan Times) http:\/\/\u2026",
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 21016128,
+            "id_str": "21016128",
+            "name": "Agathe",
+            "screen_name": "AgatheNRV",
+            "location": "",
+            "profile_location": null,
+            "description": "L'\u00e9tat c'est nous",
+            "url": "http:\/\/t.co\/PTjFzWashG",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http:\/\/t.co\/PTjFzWashG",
+                        "expanded_url": "http:\/\/kestadit.20minutes-blogs.fr\/",
+                        "display_url": "kestadit.20minutes-blogs.fr",
+                        "indices": [0, 22]
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 355,
+            "friends_count": 392,
+            "listed_count": 14,
+            "created_at": "Mon Feb 16 19:22:40 +0000 2009",
+            "favourites_count": 7328,
+            "utc_offset": -10800,
+            "time_zone": "Greenland",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 72571,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/2255596197\/plumo_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/2255596197\/plumo_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "created_at": "Tue Jan 13 06:48:46 +0000 2015",
+            "id": 554892796671164416,
+            "id_str": "554892796671164416",
+            "text": "#Inde la diff\u00e9rence d\u2019\u00e9motion entre #JeSuisCharlie et le massacre commis par Boko Haram fait d\u00e9bat (Hindustan Times) http:\/\/t.co\/leL4VGR1Hh",
+            "source": "\u003ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003eTweetbot for i\u039fS\u003c\/a\u003e",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 275673051,
+                "id_str": "275673051",
+                "name": "\u2740 Mina \u2740",
+                "screen_name": "MinaAsker",
+                "location": "Ici et souvent ailleurs",
+                "profile_location": null,
+                "description": "\u2665Carpe diem\u2665\n\u263a \u266c Un monde de curiosit\u00e9s et de bonne humeur \u266c \u263a \nPlus je sais, plus je me rends compte de mon ignorance \n \u261e FR\/EN\/AR\/TR",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 8716,
+                "friends_count": 7300,
+                "listed_count": 86,
+                "created_at": "Fri Apr 01 19:18:35 +0000 2011",
+                "favourites_count": 3953,
+                "utc_offset": 3600,
+                "time_zone": "Paris",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 30814,
+                "lang": "fr",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "022330",
+                "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/227681391\/CIMG.jpg",
+                "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/227681391\/CIMG.jpg",
+                "profile_background_tile": true,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/2988437670\/bec2c107d66496e8ec8aebb5db424ddf_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/2988437670\/bec2c107d66496e8ec8aebb5db424ddf_normal.jpeg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/275673051\/1397569427",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "A8C7F7",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 290,
+            "favorite_count": 89,
+            "entities": {
+                "hashtags": [{
+                    "text": "Inde",
+                    "indices": [0, 5]
+                }, {
+                    "text": "JeSuisCharlie",
+                    "indices": [36, 50]
+                }],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [{
+                    "id": 554892796557934592,
+                    "id_str": "554892796557934592",
+                    "indices": [117, 139],
+                    "media_url": "http:\/\/pbs.twimg.com\/media\/B7NgDvtCQAAf-e3.jpg",
+                    "media_url_https": "https:\/\/pbs.twimg.com\/media\/B7NgDvtCQAAf-e3.jpg",
+                    "url": "http:\/\/t.co\/leL4VGR1Hh",
+                    "display_url": "pic.twitter.com\/leL4VGR1Hh",
+                    "expanded_url": "http:\/\/twitter.com\/MinaAsker\/status\/554892796671164416\/photo\/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 750,
+                            "h": 620,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 496,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 281,
+                            "resize": "fit"
+                        }
+                    }
+                }]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fr"
+        },
+        "retweet_count": 290,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [{
+                "text": "Inde",
+                "indices": [15, 20]
+            }, {
+                "text": "JeSuisCharlie",
+                "indices": [51, 65]
+            }],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "MinaAsker",
+                "name": "\u2740 Mina \u2740",
+                "id": 275673051,
+                "id_str": "275673051",
+                "indices": [3, 13]
+            }],
+            "urls": [],
+            "media": [{
+                "id": 554892796557934592,
+                "id_str": "554892796557934592",
+                "indices": [139, 140],
+                "media_url": "http:\/\/pbs.twimg.com\/media\/B7NgDvtCQAAf-e3.jpg",
+                "media_url_https": "https:\/\/pbs.twimg.com\/media\/B7NgDvtCQAAf-e3.jpg",
+                "url": "http:\/\/t.co\/leL4VGR1Hh",
+                "display_url": "pic.twitter.com\/leL4VGR1Hh",
+                "expanded_url": "http:\/\/twitter.com\/MinaAsker\/status\/554892796671164416\/photo\/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 750,
+                        "h": 620,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 600,
+                        "h": 496,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 340,
+                        "h": 281,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 554892796671164416,
+                "source_status_id_str": "554892796671164416",
+                "source_user_id": 275673051,
+                "source_user_id_str": "275673051"
+            }]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": true,
+        "lang": "fr"
+    }, {
+        "metadata": {
+            "iso_language_code": "da",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Jan 16 08:43:44 +0000 2015",
+        "id": 556008892724178945,
+        "id_str": "556008892724178945",
+        "text": "From Salman Rushdie to Charlie Hebdo #Iran #terrorism #AlQuada #ISIS #CharlieHebdo #ParisMarch #JeSuisCharlie http:\/\/t.co\/2gRJl3io0X",
+        "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2328988046,
+            "id_str": "2328988046",
+            "name": "azarakhsh.km",
+            "screen_name": "azarakhshkmany",
+            "location": "",
+            "profile_location": null,
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 51,
+            "friends_count": 48,
+            "listed_count": 1,
+            "created_at": "Wed Feb 05 15:48:23 +0000 2014",
+            "favourites_count": 1960,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3884,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/431495697737592832\/FslXJLER_normal.jpeg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/431495697737592832\/FslXJLER_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [{
+                "text": "Iran",
+                "indices": [37, 42]
+            }, {
+                "text": "terrorism",
+                "indices": [43, 53]
+            }, {
+                "text": "AlQuada",
+                "indices": [54, 62]
+            }, {
+                "text": "ISIS",
+                "indices": [63, 68]
+            }, {
+                "text": "CharlieHebdo",
+                "indices": [72, 85]
+            }, {
+                "text": "ParisMarch",
+                "indices": [86, 97]
+            }, {
+                "text": "JeSuisCharlie",
+                "indices": [98, 112]
+            }],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [{
+                "url": "http:\/\/t.co\/2gRJl3io0X",
+                "expanded_url": "http:\/\/fw.to\/AcM9afD",
+                "display_url": "fw.to\/AcM9afD",
+                "indices": [113, 135]
+            }]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "da"
+    }, {
+        "metadata": {
+            "iso_language_code": "fr",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Jan 16 08:43:42 +0000 2015",
+        "id": 556008884276834305,
+        "id_str": "556008884276834305",
+        "text": "Juste au cas o\u00f9, pour dissiper les \u00e9ventuels malentendus #JeSuisCharlie http:\/\/t.co\/B68akPfcET",
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1628442109,
+            "id_str": "1628442109",
+            "name": "Pauline Seiterle",
+            "screen_name": "seiterle",
+            "location": "Lausanne",
+            "profile_location": null,
+            "description": "animatrice radio, RTS",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 103,
+            "friends_count": 166,
+            "listed_count": 3,
+            "created_at": "Sun Jul 28 18:02:27 +0000 2013",
+            "favourites_count": 69,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 122,
+            "lang": "fr",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/451462208254648320\/RB9CeoR0_normal.jpeg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/451462208254648320\/RB9CeoR0_normal.jpeg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1628442109\/1420637316",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": {
+            "type": "Point",
+            "coordinates": [46.52454169, 6.65141833]
+        },
+        "coordinates": {
+            "type": "Point",
+            "coordinates": [6.65141833, 46.52454169]
+        },
+        "place": {
+            "id": "6c07f3233c333f95",
+            "url": "https:\/\/api.twitter.com\/1.1\/geo\/id\/6c07f3233c333f95.json",
+            "place_type": "city",
+            "name": "Lausanne",
+            "full_name": "Lausanne, Vaud",
+            "country_code": "CH",
+            "country": "Schweiz",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [6.583303, 46.45497],
+                        [6.720858, 46.45497],
+                        [6.720858, 46.60242],
+                        [6.583303, 46.60242]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [{
+                "text": "JeSuisCharlie",
+                "indices": [57, 71]
+            }],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [{
+                "id": 556008881479254017,
+                "id_str": "556008881479254017",
+                "indices": [72, 94],
+                "media_url": "http:\/\/pbs.twimg.com\/media\/B7dXIcCIgAE7I0c.jpg",
+                "media_url_https": "https:\/\/pbs.twimg.com\/media\/B7dXIcCIgAE7I0c.jpg",
+                "url": "http:\/\/t.co\/B68akPfcET",
+                "display_url": "pic.twitter.com\/B68akPfcET",
+                "expanded_url": "http:\/\/twitter.com\/seiterle\/status\/556008884276834305\/photo\/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 340,
+                        "h": 190,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 819,
+                        "h": 460,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 600,
+                        "h": 336,
+                        "resize": "fit"
+                    }
+                }
+            }]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+    }, {
+        "metadata": {
+            "iso_language_code": "fr",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Jan 16 08:43:42 +0000 2015",
+        "id": 556008881244344321,
+        "id_str": "556008881244344321",
+        "text": "RT @MsieurLapique: #JeSuisCharlie - Refus de la minute de silence ... #Belkacem veut imposer le respect des valeurs de la r\u00e9publique : http\u2026",
+        "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 468281420,
+            "id_str": "468281420",
+            "name": "Mireille Boissy",
+            "screen_name": "MireilleBoissy",
+            "location": "Cannes",
+            "profile_location": null,
+            "description": "Conseill\u00e8re Municipale de Cannes avec David Lisnard.UMP. Team Une Nouvelle Energie pour Cannes L'avenir de notre ville et l' \u00eele d'Aix au c\u0153ur.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 763,
+            "friends_count": 763,
+            "listed_count": 6,
+            "created_at": "Thu Jan 19 11:12:08 +0000 2012",
+            "favourites_count": 12538,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 26743,
+            "lang": "fr",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/460337947468779520\/js7UPG5G_normal.jpeg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/460337947468779520\/js7UPG5G_normal.jpeg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/468281420\/1398587910",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": {
+            "type": "Point",
+            "coordinates": [8.65141833, 48.52454169]
+        },
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "created_at": "Fri Jan 16 07:09:39 +0000 2015",
+            "id": 555985212455534592,
+            "id_str": "555985212455534592",
+            "text": "#JeSuisCharlie - Refus de la minute de silence ... #Belkacem veut imposer le respect des valeurs de la r\u00e9publique : http:\/\/t.co\/gPFfUlEdUO",
+            "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 615038179,
+                "id_str": "615038179",
+                "name": "Msieur Lapique",
+                "screen_name": "MsieurLapique",
+                "location": "Du Sud-Ouest \u00e0 Paris",
+                "profile_location": null,
+                "description": "Anti gauche, r\u00e2leur, piquant, caustique... Chaque jour, images et dessins politiques (voir images r\u00e9centes) #UMP ...",
+                "url": "http:\/\/t.co\/uO76ZXw7XE",
+                "entities": {
+                    "url": {
+                        "urls": [{
+                            "url": "http:\/\/t.co\/uO76ZXw7XE",
+                            "expanded_url": "http:\/\/www.facebook.com\/MsieurLapique",
+                            "display_url": "facebook.com\/MsieurLapique",
+                            "indices": [0, 22]
+                        }]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 17996,
+                "friends_count": 6955,
+                "listed_count": 207,
+                "created_at": "Fri Jun 22 10:15:39 +0000 2012",
+                "favourites_count": 74643,
+                "utc_offset": 7200,
+                "time_zone": "Athens",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 15985,
+                "lang": "fr",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/438672245649469440\/0o90ukAm.jpeg",
+                "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/438672245649469440\/0o90ukAm.jpeg",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/553204851157794816\/a2LuPUtG_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/553204851157794816\/a2LuPUtG_normal.jpeg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/615038179\/1390668241",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [10.65141833, 50.52454169]
+            },
+            "place": null,
+            "contributors": null,
+            "retweet_count": 34,
+            "favorite_count": 13,
+            "entities": {
+                "hashtags": [{
+                    "text": "JeSuisCharlie",
+                    "indices": [0, 14]
+                }, {
+                    "text": "Belkacem",
+                    "indices": [51, 60]
+                }],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [{
+                    "id": 555985211633438720,
+                    "id_str": "555985211633438720",
+                    "indices": [116, 138],
+                    "media_url": "http:\/\/pbs.twimg.com\/media\/B7dBmq_IEAApRkR.jpg",
+                    "media_url_https": "https:\/\/pbs.twimg.com\/media\/B7dBmq_IEAApRkR.jpg",
+                    "url": "http:\/\/t.co\/gPFfUlEdUO",
+                    "display_url": "pic.twitter.com\/gPFfUlEdUO",
+                    "expanded_url": "http:\/\/twitter.com\/MsieurLapique\/status\/555985212455534592\/photo\/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 600,
+                            "h": 450,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 255,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 450,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fr"
+        },
+        "retweet_count": 34,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [{
+                "text": "JeSuisCharlie",
+                "indices": [19, 33]
+            }, {
+                "text": "Belkacem",
+                "indices": [70, 79]
+            }],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "MsieurLapique",
+                "name": "Msieur Lapique",
+                "id": 615038179,
+                "id_str": "615038179",
+                "indices": [3, 17]
+            }],
+            "urls": [],
+            "media": [{
+                "id": 555985211633438720,
+                "id_str": "555985211633438720",
+                "indices": [139, 140],
+                "media_url": "http:\/\/pbs.twimg.com\/media\/B7dBmq_IEAApRkR.jpg",
+                "media_url_https": "https:\/\/pbs.twimg.com\/media\/B7dBmq_IEAApRkR.jpg",
+                "url": "http:\/\/t.co\/gPFfUlEdUO",
+                "display_url": "pic.twitter.com\/gPFfUlEdUO",
+                "expanded_url": "http:\/\/twitter.com\/MsieurLapique\/status\/555985212455534592\/photo\/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 600,
+                        "h": 450,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 340,
+                        "h": 255,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 600,
+                        "h": 450,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    }
+                },
+                "source_status_id": 555985212455534592,
+                "source_status_id_str": "555985212455534592",
+                "source_user_id": 615038179,
+                "source_user_id_str": "615038179"
+            }]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+    }, {
+        "metadata": {
+            "iso_language_code": "fr",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Jan 16 08:43:42 +0000 2015",
+        "id": 556008881194016768,
+        "id_str": "556008881194016768",
+        "text": "RT @Vrais66: Propagez Au nom de #JeSuisCharlie http:\/\/t.co\/GNAHYa25Rf D\u00e9noncez la censure que veut imposer l'#islamisation http:\/\/t.co\/xYSD\u2026",
+        "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1718723036,
+            "id_str": "1718723036",
+            "name": "MARTINE -PHENIX",
+            "screen_name": "toujours_droit",
+            "location": " Vaucluse ",
+            "profile_location": null,
+            "description": "Je suis fran\u00e7aise et fi\u00e8re de l'\u00eatre.J'aime l'ordre,la justice et je d\u00e9sesp\u00e8re de voir les changements n\u00e9gatifs de la soci\u00e9t\u00e9.",
+            "url": "http:\/\/t.co\/vOKAtavTrM",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http:\/\/t.co\/vOKAtavTrM",
+                        "expanded_url": "http:\/\/www.mmdenis.vacau.com\/",
+                        "display_url": "mmdenis.vacau.com",
+                        "indices": [0, 22]
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1345,
+            "friends_count": 1765,
+            "listed_count": 4,
+            "created_at": "Sun Sep 01 11:23:03 +0000 2013",
+            "favourites_count": 12948,
+            "utc_offset": 7200,
+            "time_zone": "Athens",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 39731,
+            "lang": "fr",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme16\/bg.gif",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme16\/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/544511824100458497\/9INXljKv_normal.jpeg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/544511824100458497\/9INXljKv_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "BDDCAD",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "created_at": "Fri Jan 16 08:42:08 +0000 2015",
+            "id": 556008490775625729,
+            "id_str": "556008490775625729",
+            "text": "Propagez Au nom de #JeSuisCharlie http:\/\/t.co\/GNAHYa25Rf D\u00e9noncez la censure que veut imposer l'#islamisation http:\/\/t.co\/xYSDk0SSOq",
+            "source": "\u003ca href=\"http:\/\/www.simplycast.com\" rel=\"nofollow\"\u003eSimplyCast\u003c\/a\u003e",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2384609402,
+                "id_str": "2384609402",
+                "name": "JeSuisCharlieVrais66",
+                "screen_name": "Vrais66",
+                "location": "USA",
+                "profile_location": null,
+                "description": "\u00c9crire c\u2019est articuler sa pens\u00e9e et donc se lib\u00e9rer de l\u2019oppression au sens pur: soit le mensonge. Un peu plus de v\u00e9rit\u00e9 \u00e0 chaque jour lib\u00e8re la conscience.",
+                "url": "http:\/\/t.co\/gqhrjk73yb",
+                "entities": {
+                    "url": {
+                        "urls": [{
+                            "url": "http:\/\/t.co\/gqhrjk73yb",
+                            "expanded_url": "http:\/\/vrais66.com",
+                            "display_url": "vrais66.com",
+                            "indices": [0, 22]
+                        }]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1164,
+                "friends_count": 917,
+                "listed_count": 15,
+                "created_at": "Wed Mar 12 03:37:55 +0000 2014",
+                "favourites_count": 849,
+                "utc_offset": -18000,
+                "time_zone": "Eastern Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 60494,
+                "lang": "fr",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/458844689446092800\/cklotJhU.jpeg",
+                "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/458844689446092800\/cklotJhU.jpeg",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/553940289333653504\/T4g9peS1_normal.png",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/553940289333653504\/T4g9peS1_normal.png",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2384609402\/1421204178",
+                "profile_link_color": "4A913C",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "entities": {
+                "hashtags": [{
+                    "text": "JeSuisCharlie",
+                    "indices": [19, 33]
+                }, {
+                    "text": "islamisation",
+                    "indices": [96, 109]
+                }],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [{
+                    "url": "http:\/\/t.co\/GNAHYa25Rf",
+                    "expanded_url": "http:\/\/j.mp\/1BIetUi",
+                    "display_url": "j.mp\/1BIetUi",
+                    "indices": [34, 56]
+                }],
+                "media": [{
+                    "id": 556008490729504768,
+                    "id_str": "556008490729504768",
+                    "indices": [110, 132],
+                    "media_url": "http:\/\/pbs.twimg.com\/media\/B7dWxsYIgAAfVNw.jpg",
+                    "media_url_https": "https:\/\/pbs.twimg.com\/media\/B7dWxsYIgAAfVNw.jpg",
+                    "url": "http:\/\/t.co\/xYSDk0SSOq",
+                    "display_url": "pic.twitter.com\/xYSDk0SSOq",
+                    "expanded_url": "http:\/\/twitter.com\/Vrais66\/status\/556008490775625729\/photo\/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 340,
+                            "h": 374,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 399,
+                            "h": 440,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 399,
+                            "h": 440,
+                            "resize": "fit"
+                        }
+                    }
+                }]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fr"
+        },
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [{
+                "text": "JeSuisCharlie",
+                "indices": [32, 46]
+            }, {
+                "text": "islamisation",
+                "indices": [109, 122]
+            }],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "Vrais66",
+                "name": "JeSuisCharlieVrais66",
+                "id": 2384609402,
+                "id_str": "2384609402",
+                "indices": [3, 11]
+            }],
+            "urls": [{
+                "url": "http:\/\/t.co\/GNAHYa25Rf",
+                "expanded_url": "http:\/\/j.mp\/1BIetUi",
+                "display_url": "j.mp\/1BIetUi",
+                "indices": [47, 69]
+            }],
+            "media": [{
+                "id": 556008490729504768,
+                "id_str": "556008490729504768",
+                "indices": [139, 140],
+                "media_url": "http:\/\/pbs.twimg.com\/media\/B7dWxsYIgAAfVNw.jpg",
+                "media_url_https": "https:\/\/pbs.twimg.com\/media\/B7dWxsYIgAAfVNw.jpg",
+                "url": "http:\/\/t.co\/xYSDk0SSOq",
+                "display_url": "pic.twitter.com\/xYSDk0SSOq",
+                "expanded_url": "http:\/\/twitter.com\/Vrais66\/status\/556008490775625729\/photo\/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 340,
+                        "h": 374,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 399,
+                        "h": 440,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 399,
+                        "h": 440,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 556008490775625729,
+                "source_status_id_str": "556008490775625729",
+                "source_user_id": 2384609402,
+                "source_user_id_str": "2384609402"
+            }]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+    }, {
+        "metadata": {
+            "iso_language_code": "fr",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Jan 16 08:43:41 +0000 2015",
+        "id": 556008876827762688,
+        "id_str": "556008876827762688",
+        "text": "RT @MsieurLapique: DESSIN DU JOUR N\u00b02 - \n#JeSuisCharlie - Le record de tirage \"embarrasse\" les terroristes islamistes : http:\/\/t.co\/30CZvA\u2026",
+        "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 105106236,
+            "id_str": "105106236",
+            "name": "Yves Claud\u00e9 yclaude",
+            "screen_name": "yclaude",
+            "location": "Montr\u00e9al (Qu\u00e9bec Libre)",
+            "profile_location": null,
+            "description": "Yves Claud\u00e9 (ycsocio[@]yahoo.ca)\r\nTW personnel (arts, politique, etc.) ind\u00e9pendant de mes activit\u00e9s professionnelles \/ \r\nvoir aussi : @ycsocio @flamencante",
+            "url": "http:\/\/t.co\/kVsZM8rH0W",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http:\/\/t.co\/kVsZM8rH0W",
+                        "expanded_url": "http:\/\/www.flickr.com\/photos\/ycsocio\/",
+                        "display_url": "flickr.com\/photos\/ycsocio\/",
+                        "indices": [0, 22]
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 805,
+            "friends_count": 1530,
+            "listed_count": 29,
+            "created_at": "Fri Jan 15 11:15:01 +0000 2010",
+            "favourites_count": 592,
+            "utc_offset": -21600,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 40812,
+            "lang": "fr",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "EDECE9",
+            "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/67620034\/IN_9-9-26_.1.4.1vb1.jpg",
+            "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/67620034\/IN_9-9-26_.1.4.1vb1.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/638496987\/IN_9-9-26_.1.4.1vb2_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/638496987\/IN_9-9-26_.1.4.1vb2_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/105106236\/1401326147",
+            "profile_link_color": "772687",
+            "profile_sidebar_border_color": "D3D2CF",
+            "profile_sidebar_fill_color": "E3E2DE",
+            "profile_text_color": "080808",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "created_at": "Thu Jan 15 07:12:41 +0000 2015",
+            "id": 555623590511792128,
+            "id_str": "555623590511792128",
+            "text": "DESSIN DU JOUR N\u00b02 - \n#JeSuisCharlie - Le record de tirage \"embarrasse\" les terroristes islamistes : http:\/\/t.co\/30CZvAjbua",
+            "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 615038179,
+                "id_str": "615038179",
+                "name": "Msieur Lapique",
+                "screen_name": "MsieurLapique",
+                "location": "Du Sud-Ouest \u00e0 Paris",
+                "profile_location": null,
+                "description": "Anti gauche, r\u00e2leur, piquant, caustique... Chaque jour, images et dessins politiques (voir images r\u00e9centes) #UMP ...",
+                "url": "http:\/\/t.co\/uO76ZXw7XE",
+                "entities": {
+                    "url": {
+                        "urls": [{
+                            "url": "http:\/\/t.co\/uO76ZXw7XE",
+                            "expanded_url": "http:\/\/www.facebook.com\/MsieurLapique",
+                            "display_url": "facebook.com\/MsieurLapique",
+                            "indices": [0, 22]
+                        }]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 17996,
+                "friends_count": 6955,
+                "listed_count": 207,
+                "created_at": "Fri Jun 22 10:15:39 +0000 2012",
+                "favourites_count": 74643,
+                "utc_offset": 7200,
+                "time_zone": "Athens",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 15985,
+                "lang": "fr",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/438672245649469440\/0o90ukAm.jpeg",
+                "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/438672245649469440\/0o90ukAm.jpeg",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/553204851157794816\/a2LuPUtG_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/553204851157794816\/a2LuPUtG_normal.jpeg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/615038179\/1390668241",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 110,
+            "favorite_count": 38,
+            "entities": {
+                "hashtags": [{
+                    "text": "JeSuisCharlie",
+                    "indices": [22, 36]
+                }],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [{
+                    "id": 555623589378940929,
+                    "id_str": "555623589378940929",
+                    "indices": [102, 124],
+                    "media_url": "http:\/\/pbs.twimg.com\/media\/B7X4tfHCYAESdFO.jpg",
+                    "media_url_https": "https:\/\/pbs.twimg.com\/media\/B7X4tfHCYAESdFO.jpg",
+                    "url": "http:\/\/t.co\/30CZvAjbua",
+                    "display_url": "pic.twitter.com\/30CZvAjbua",
+                    "expanded_url": "http:\/\/twitter.com\/MsieurLapique\/status\/555623590511792128\/photo\/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 442,
+                            "h": 776,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 442,
+                            "h": 776,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 596,
+                            "resize": "fit"
+                        }
+                    }
+                }]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fr"
+        },
+        "retweet_count": 110,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [{
+                "text": "JeSuisCharlie",
+                "indices": [41, 55]
+            }],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "MsieurLapique",
+                "name": "Msieur Lapique",
+                "id": 615038179,
+                "id_str": "615038179",
+                "indices": [3, 17]
+            }],
+            "urls": [],
+            "media": [{
+                "id": 555623589378940929,
+                "id_str": "555623589378940929",
+                "indices": [139, 140],
+                "media_url": "http:\/\/pbs.twimg.com\/media\/B7X4tfHCYAESdFO.jpg",
+                "media_url_https": "https:\/\/pbs.twimg.com\/media\/B7X4tfHCYAESdFO.jpg",
+                "url": "http:\/\/t.co\/30CZvAjbua",
+                "display_url": "pic.twitter.com\/30CZvAjbua",
+                "expanded_url": "http:\/\/twitter.com\/MsieurLapique\/status\/555623590511792128\/photo\/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 442,
+                        "h": 776,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 442,
+                        "h": 776,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 340,
+                        "h": 596,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 555623590511792128,
+                "source_status_id_str": "555623590511792128",
+                "source_user_id": 615038179,
+                "source_user_id_str": "615038179"
+            }]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+    }, {
+        "metadata": {
+            "iso_language_code": "fr",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Jan 16 08:43:39 +0000 2015",
+        "id": 556008871719084032,
+        "id_str": "556008871719084032",
+        "text": "RT @pmeillie: J'ai retrouv\u00e9 dans la biblioth\u00e8que ce n\u00b0 de 1982 #JeSuisCharlie http:\/\/t.co\/E8elcWEuJw",
+        "source": "\u003ca href=\"https:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android Tablets\u003c\/a\u003e",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2880818116,
+            "id_str": "2880818116",
+            "name": "ANTI CONS",
+            "screen_name": "BLEUE222",
+            "location": "PARTOUT ET NULLE PART",
+            "profile_location": null,
+            "description": "HUMOUR ET FANTAISIE TELLE EST MA DEVISE. PAS DE DM",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 479,
+            "friends_count": 814,
+            "listed_count": 6,
+            "created_at": "Mon Nov 17 10:36:59 +0000 2014",
+            "favourites_count": 1687,
+            "utc_offset": 3600,
+            "time_zone": "Paris",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5074,
+            "lang": "fr",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/545630911950102529\/U0i11jIN_normal.jpeg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/545630911950102529\/U0i11jIN_normal.jpeg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2880818116\/1420647348",
+            "profile_link_color": "FFCC4D",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "created_at": "Thu Jan 15 13:14:14 +0000 2015",
+            "id": 555714578454417408,
+            "id_str": "555714578454417408",
+            "text": "J'ai retrouv\u00e9 dans la biblioth\u00e8que ce n\u00b0 de 1982 #JeSuisCharlie http:\/\/t.co\/E8elcWEuJw",
+            "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2237914992,
+                "id_str": "2237914992",
+                "name": "patrick meillier",
+                "screen_name": "pmeillie",
+                "location": "",
+                "profile_location": null,
+                "description": "aime les terroirs, l'histoire et la musique classique ! ath\u00e9e, \u00e9colo et ...pour une soci\u00e9t\u00e9 la\u00efque o\u00f9 chacun suit son chemin et respecte la diff\u00e9rence !",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 569,
+                "friends_count": 1143,
+                "listed_count": 9,
+                "created_at": "Mon Dec 09 16:45:10 +0000 2013",
+                "favourites_count": 3,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 6470,
+                "lang": "fr",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/429755262829092864\/XWV5Gsuo_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/429755262829092864\/XWV5Gsuo_normal.jpeg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2237914992\/1420639610",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 97,
+            "favorite_count": 45,
+            "entities": {
+                "hashtags": [{
+                    "text": "JeSuisCharlie",
+                    "indices": [49, 63]
+                }],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [{
+                    "id": 555714491883589632,
+                    "id_str": "555714491883589632",
+                    "indices": [64, 86],
+                    "media_url": "http:\/\/pbs.twimg.com\/media\/B7ZLYtVCEAAbyj-.jpg",
+                    "media_url_https": "https:\/\/pbs.twimg.com\/media\/B7ZLYtVCEAAbyj-.jpg",
+                    "url": "http:\/\/t.co\/E8elcWEuJw",
+                    "display_url": "pic.twitter.com\/E8elcWEuJw",
+                    "expanded_url": "http:\/\/twitter.com\/pmeillie\/status\/555714578454417408\/photo\/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 814,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 427,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 754,
+                            "resize": "fit"
+                        }
+                    }
+                }]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fr"
+        },
+        "retweet_count": 97,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [{
+                "text": "JeSuisCharlie",
+                "indices": [63, 77]
+            }],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "pmeillie",
+                "name": "patrick meillier",
+                "id": 2237914992,
+                "id_str": "2237914992",
+                "indices": [3, 12]
+            }],
+            "urls": [],
+            "media": [{
+                "id": 555714491883589632,
+                "id_str": "555714491883589632",
+                "indices": [78, 100],
+                "media_url": "http:\/\/pbs.twimg.com\/media\/B7ZLYtVCEAAbyj-.jpg",
+                "media_url_https": "https:\/\/pbs.twimg.com\/media\/B7ZLYtVCEAAbyj-.jpg",
+                "url": "http:\/\/t.co\/E8elcWEuJw",
+                "display_url": "pic.twitter.com\/E8elcWEuJw",
+                "expanded_url": "http:\/\/twitter.com\/pmeillie\/status\/555714578454417408\/photo\/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 814,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 340,
+                        "h": 427,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 600,
+                        "h": 754,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 555714578454417408,
+                "source_status_id_str": "555714578454417408",
+                "source_user_id": 2237914992,
+                "source_user_id_str": "2237914992"
+            }]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+    }, {
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Jan 16 08:43:39 +0000 2015",
+        "id": 556008869819064320,
+        "id_str": "556008869819064320",
+        "text": "Ho veieu com aquest Papa \u00e9s un m\u00e9s? Totes les religions em mereixen el mateix respecte. #JeSuisCharlie",
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 625565957,
+            "id_str": "625565957",
+            "name": "DUIja Marc|I*I|",
+            "screen_name": "cram1791",
+            "location": "Baix Camp...CATALUNYA",
+            "profile_location": null,
+            "description": "+18 --INDEPEND\u00c8NCIA!",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1769,
+            "friends_count": 1507,
+            "listed_count": 29,
+            "created_at": "Tue Jul 03 13:44:01 +0000 2012",
+            "favourites_count": 82191,
+            "utc_offset": 7200,
+            "time_zone": "Athens",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 82056,
+            "lang": "ca",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/519588060678205440\/Sun5qkYp_normal.jpeg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/519588060678205440\/Sun5qkYp_normal.jpeg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/625565957\/1396470051",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [{
+                "text": "JeSuisCharlie",
+                "indices": [88, 102]
+            }],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    }, {
+        "metadata": {
+            "iso_language_code": "fr",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Jan 16 08:43:37 +0000 2015",
+        "id": 556008863779258368,
+        "id_str": "556008863779258368",
+        "text": "Dieu existe ! : c'est CAVANNA... #JeSuisCharlie http:\/\/t.co\/JtEWWFv18j",
+        "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 626742037,
+            "id_str": "626742037",
+            "name": "mathieu MBkza",
+            "screen_name": "mathieumbkza",
+            "location": "",
+            "profile_location": null,
+            "description": "D\u00e9corateur de page blanche. Art Director #GraphisteDesigner membre fondateur du @Grisbiornotgris fan de #StreetArt #Pochoir twitter fou mais pas twitter addict",
+            "url": "http:\/\/t.co\/LtB3WXEIyD",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http:\/\/t.co\/LtB3WXEIyD",
+                        "expanded_url": "http:\/\/cargocollective.com\/mathieu_boukhobza",
+                        "display_url": "cargocollective.com\/mathieu_boukho\u2026",
+                        "indices": [0, 22]
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 209,
+            "friends_count": 1429,
+            "listed_count": 10,
+            "created_at": "Wed Jul 04 19:55:43 +0000 2012",
+            "favourites_count": 442,
+            "utc_offset": 7200,
+            "time_zone": "Athens",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3586,
+            "lang": "fr",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/491980046131687424\/0UGM6_MJ_normal.jpeg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/491980046131687424\/0UGM6_MJ_normal.jpeg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/626742037\/1367827555",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [{
+                "text": "JeSuisCharlie",
+                "indices": [33, 47]
+            }],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [{
+                "id": 556008862781038592,
+                "id_str": "556008862781038592",
+                "indices": [48, 70],
+                "media_url": "http:\/\/pbs.twimg.com\/media\/B7dXHWYIYAA6ZnX.jpg",
+                "media_url_https": "https:\/\/pbs.twimg.com\/media\/B7dXHWYIYAA6ZnX.jpg",
+                "url": "http:\/\/t.co\/JtEWWFv18j",
+                "display_url": "pic.twitter.com\/JtEWWFv18j",
+                "expanded_url": "http:\/\/twitter.com\/mathieumbkza\/status\/556008863779258368\/photo\/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 599,
+                        "h": 473,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 599,
+                        "h": 473,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 340,
+                        "h": 268,
+                        "resize": "fit"
+                    }
+                }
+            }]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+    }, {
+        "metadata": {
+            "iso_language_code": "fr",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Jan 16 08:43:31 +0000 2015",
+        "id": 556008838877675520,
+        "id_str": "556008838877675520",
+        "text": "RT @jallatte: #Citation #JeSuisCharlie \"Hommage \u00e0 des amis morts debout\"( #NicolasVial ) #CharlieHebdo #Scoop #In\u00e9dit #Presse #Vial http:\/\/\u2026",
+        "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 496832339,
+            "id_str": "496832339",
+            "name": "GuillaumeTC",
+            "screen_name": "GuillaumeTC",
+            "location": "France",
+            "profile_location": null,
+            "description": "Fier papa des #CroisonsLes. Sports, politique et publicit\u00e9 (en recherche d'un poste). Le livre Best-Of #CroisonsLes (Flammarion) est en librairie.",
+            "url": "http:\/\/t.co\/I45lFmWrlC",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http:\/\/t.co\/I45lFmWrlC",
+                        "expanded_url": "http:\/\/croisonsles.tumblr.com",
+                        "display_url": "croisonsles.tumblr.com",
+                        "indices": [0, 22]
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 23080,
+            "friends_count": 2015,
+            "listed_count": 221,
+            "created_at": "Sun Feb 19 10:21:05 +0000 2012",
+            "favourites_count": 27448,
+            "utc_offset": 3600,
+            "time_zone": "Paris",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 35008,
+            "lang": "fr",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/378800000161067038\/7rDN7m3K.jpeg",
+            "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/378800000161067038\/7rDN7m3K.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/554680148348243968\/ToaPVKxr_normal.jpeg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/554680148348243968\/ToaPVKxr_normal.jpeg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/496832339\/1401367229",
+            "profile_link_color": "1631B8",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "AAB2B5",
+            "profile_text_color": "FEEA00",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "created_at": "Wed Jan 14 13:25:25 +0000 2015",
+            "id": 555355005361082368,
+            "id_str": "555355005361082368",
+            "text": "#Citation #JeSuisCharlie \"Hommage \u00e0 des amis morts debout\"( #NicolasVial ) #CharlieHebdo #Scoop #In\u00e9dit #Presse #Vial http:\/\/t.co\/dbfqUrCIko",
+            "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 19012972,
+                "id_str": "19012972",
+                "name": "jallatte",
+                "screen_name": "jallatte",
+                "location": "Ovalie",
+                "profile_location": null,
+                "description": "Soyons intimes en Public - I unfollow all autowelcome - #Sant\u00e9 #Pharma #Fukushima #Rugby #M\u00e9diter - Followers = http:\/\/t.co\/WA0dr36z58 -",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": [{
+                            "url": "http:\/\/t.co\/WA0dr36z58",
+                            "expanded_url": "http:\/\/www.twilk.com\/u\/jallatte",
+                            "display_url": "twilk.com\/u\/jallatte",
+                            "indices": [113, 135]
+                        }]
+                    }
+                },
+                "protected": false,
+                "followers_count": 4517,
+                "friends_count": 4238,
+                "listed_count": 116,
+                "created_at": "Thu Jan 15 06:03:55 +0000 2009",
+                "favourites_count": 5322,
+                "utc_offset": 3600,
+                "time_zone": "Paris",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 77291,
+                "lang": "fr",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/443973705761161216\/8VCdVXqI.jpeg",
+                "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/443973705761161216\/8VCdVXqI.jpeg",
+                "profile_background_tile": true,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/554856181978513408\/7-pYgsnj_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/554856181978513408\/7-pYgsnj_normal.jpeg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/19012972\/1421124088",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 98,
+            "favorite_count": 48,
+            "entities": {
+                "hashtags": [{
+                    "text": "Citation",
+                    "indices": [0, 9]
+                }, {
+                    "text": "JeSuisCharlie",
+                    "indices": [10, 24]
+                }, {
+                    "text": "NicolasVial",
+                    "indices": [60, 72]
+                }, {
+                    "text": "CharlieHebdo",
+                    "indices": [75, 88]
+                }, {
+                    "text": "Scoop",
+                    "indices": [89, 95]
+                }, {
+                    "text": "In\u00e9dit",
+                    "indices": [96, 103]
+                }, {
+                    "text": "Presse",
+                    "indices": [104, 111]
+                }, {
+                    "text": "Vial",
+                    "indices": [112, 117]
+                }],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [{
+                    "id": 555355003611643904,
+                    "id_str": "555355003611643904",
+                    "indices": [118, 140],
+                    "media_url": "http:\/\/pbs.twimg.com\/media\/B7UEbvKCAAAe_62.jpg",
+                    "media_url_https": "https:\/\/pbs.twimg.com\/media\/B7UEbvKCAAAe_62.jpg",
+                    "url": "http:\/\/t.co\/dbfqUrCIko",
+                    "display_url": "pic.twitter.com\/dbfqUrCIko",
+                    "expanded_url": "http:\/\/twitter.com\/jallatte\/status\/555355005361082368\/photo\/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 340,
+                            "h": 451,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 581,
+                            "h": 771,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 581,
+                            "h": 771,
+                            "resize": "fit"
+                        }
+                    }
+                }]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fr"
+        },
+        "retweet_count": 98,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [{
+                "text": "Citation",
+                "indices": [14, 23]
+            }, {
+                "text": "JeSuisCharlie",
+                "indices": [24, 38]
+            }, {
+                "text": "NicolasVial",
+                "indices": [74, 86]
+            }, {
+                "text": "CharlieHebdo",
+                "indices": [89, 102]
+            }, {
+                "text": "Scoop",
+                "indices": [103, 109]
+            }, {
+                "text": "In\u00e9dit",
+                "indices": [110, 117]
+            }, {
+                "text": "Presse",
+                "indices": [118, 125]
+            }, {
+                "text": "Vial",
+                "indices": [126, 131]
+            }],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "jallatte",
+                "name": "jallatte",
+                "id": 19012972,
+                "id_str": "19012972",
+                "indices": [3, 12]
+            }],
+            "urls": [],
+            "media": [{
+                "id": 555355003611643904,
+                "id_str": "555355003611643904",
+                "indices": [139, 140],
+                "media_url": "http:\/\/pbs.twimg.com\/media\/B7UEbvKCAAAe_62.jpg",
+                "media_url_https": "https:\/\/pbs.twimg.com\/media\/B7UEbvKCAAAe_62.jpg",
+                "url": "http:\/\/t.co\/dbfqUrCIko",
+                "display_url": "pic.twitter.com\/dbfqUrCIko",
+                "expanded_url": "http:\/\/twitter.com\/jallatte\/status\/555355005361082368\/photo\/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 340,
+                        "h": 451,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 581,
+                        "h": 771,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 581,
+                        "h": 771,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 555355005361082368,
+                "source_status_id_str": "555355005361082368",
+                "source_user_id": 19012972,
+                "source_user_id_str": "19012972"
+            }]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+    }, {
+        "metadata": {
+            "iso_language_code": "fr",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Jan 16 08:43:25 +0000 2015",
+        "id": 556008811262013440,
+        "id_str": "556008811262013440",
+        "text": "RT @MichelGangaye: La France est au 39\u00e8me rang mondial de la Libert\u00e9 d'Expression ! #JeSuisCharlie #LaR\u00e9union => http:\/\/t.co\/qYMaqNVlYO htt\u2026",
+        "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1904960142,
+            "id_str": "1904960142",
+            "name": "Fabrice Eulry \u0646",
+            "screen_name": "Fabrice_Eulry",
+            "location": "France",
+            "profile_location": null,
+            "description": "#Pianiste l#Chopin du #boogie \n#Compositeur curieux de toute #musique #VFrVn\n#histoiredeFrance #patrimoine\nEn concert \u00e0 l'#Olympia le 10 sept 2015",
+            "url": "http:\/\/t.co\/GW9ARc11By",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http:\/\/t.co\/GW9ARc11By",
+                        "expanded_url": "http:\/\/www.fabriceeulry.com",
+                        "display_url": "fabriceeulry.com",
+                        "indices": [0, 22]
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 921,
+            "friends_count": 962,
+            "listed_count": 10,
+            "created_at": "Wed Sep 25 18:07:31 +0000 2013",
+            "favourites_count": 6,
+            "utc_offset": 3600,
+            "time_zone": "Paris",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 8437,
+            "lang": "fr",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/378800000145218278\/veVJo4EC.jpeg",
+            "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/378800000145218278\/veVJo4EC.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/378800000509479746\/e3e7219ef0e78c2eb9e67a18c9580990_normal.jpeg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/378800000509479746\/e3e7219ef0e78c2eb9e67a18c9580990_normal.jpeg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1904960142\/1386638891",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "created_at": "Fri Jan 09 08:02:25 +0000 2015",
+            "id": 553461779633045504,
+            "id_str": "553461779633045504",
+            "text": "La France est au 39\u00e8me rang mondial de la Libert\u00e9 d'Expression ! #JeSuisCharlie #LaR\u00e9union => http:\/\/t.co\/qYMaqNVlYO http:\/\/t.co\/X1jHaoJ5zF",
+            "source": "\u003ca href=\"https:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android Tablets\u003c\/a\u003e",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 358711923,
+                "id_str": "358711923",
+                "name": "Michel GANGAYE",
+                "screen_name": "MichelGangaye",
+                "location": "La R\u00e9union \/ Reunion island",
+                "profile_location": null,
+                "description": "#DeboutLaReunion #DeboutLaFrance #Departementales2015 #LaJeunesseAvantTout",
+                "url": "https:\/\/t.co\/SrEB0D23GQ",
+                "entities": {
+                    "url": {
+                        "urls": [{
+                            "url": "https:\/\/t.co\/SrEB0D23GQ",
+                            "expanded_url": "https:\/\/m.facebook.com\/michel.gangaye",
+                            "display_url": "m.facebook.com\/michel.gangaye",
+                            "indices": [0, 23]
+                        }]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 868,
+                "friends_count": 1468,
+                "listed_count": 11,
+                "created_at": "Sat Aug 20 11:10:00 +0000 2011",
+                "favourites_count": 1671,
+                "utc_offset": 14400,
+                "time_zone": "Abu Dhabi",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 3239,
+                "lang": "fr",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/378800000155305878\/BpeFN0VX.jpeg",
+                "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/378800000155305878\/BpeFN0VX.jpeg",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1504813672\/Photo_normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1504813672\/Photo_normal.jpg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/358711923\/1404563918",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 269,
+            "favorite_count": 60,
+            "entities": {
+                "hashtags": [{
+                    "text": "JeSuisCharlie",
+                    "indices": [65, 79]
+                }, {
+                    "text": "LaR\u00e9union",
+                    "indices": [80, 90]
+                }],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [{
+                    "url": "http:\/\/t.co\/qYMaqNVlYO",
+                    "expanded_url": "http:\/\/www.atlantico.fr\/pepites\/liberte-presse-france-recule-au-39e-rang-au-classement-annuel-rsf-980934.html",
+                    "display_url": "atlantico.fr\/pepites\/libert\u2026",
+                    "indices": [97, 119]
+                }],
+                "media": [{
+                    "id": 553461758447583232,
+                    "id_str": "553461758447583232",
+                    "indices": [120, 142],
+                    "media_url": "http:\/\/pbs.twimg.com\/media\/B65KiXUIAAAJeUZ.jpg",
+                    "media_url_https": "https:\/\/pbs.twimg.com\/media\/B65KiXUIAAAJeUZ.jpg",
+                    "url": "http:\/\/t.co\/X1jHaoJ5zF",
+                    "display_url": "pic.twitter.com\/X1jHaoJ5zF",
+                    "expanded_url": "http:\/\/twitter.com\/MichelGangaye\/status\/553461779633045504\/photo\/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 340,
+                            "h": 340,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 600,
+                            "resize": "fit"
+                        }
+                    }
+                }]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fr"
+        },
+        "retweet_count": 269,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [{
+                "text": "JeSuisCharlie",
+                "indices": [84, 98]
+            }, {
+                "text": "LaR\u00e9union",
+                "indices": [99, 109]
+            }],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "MichelGangaye",
+                "name": "Michel GANGAYE",
+                "id": 358711923,
+                "id_str": "358711923",
+                "indices": [3, 17]
+            }],
+            "urls": [{
+                "url": "http:\/\/t.co\/qYMaqNVlYO",
+                "expanded_url": "http:\/\/www.atlantico.fr\/pepites\/liberte-presse-france-recule-au-39e-rang-au-classement-annuel-rsf-980934.html",
+                "display_url": "atlantico.fr\/pepites\/libert\u2026",
+                "indices": [116, 138]
+            }],
+            "media": [{
+                "id": 553461758447583232,
+                "id_str": "553461758447583232",
+                "indices": [142, 143],
+                "media_url": "http:\/\/pbs.twimg.com\/media\/B65KiXUIAAAJeUZ.jpg",
+                "media_url_https": "https:\/\/pbs.twimg.com\/media\/B65KiXUIAAAJeUZ.jpg",
+                "url": "http:\/\/t.co\/X1jHaoJ5zF",
+                "display_url": "pic.twitter.com\/X1jHaoJ5zF",
+                "expanded_url": "http:\/\/twitter.com\/MichelGangaye\/status\/553461779633045504\/photo\/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 340,
+                        "h": 340,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 600,
+                        "h": 600,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 553461779633045504,
+                "source_status_id_str": "553461779633045504",
+                "source_user_id": 358711923,
+                "source_user_id_str": "358711923"
+            }]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+    }, {
+        "metadata": {
+            "iso_language_code": "fr",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Jan 16 08:43:25 +0000 2015",
+        "id": 556008810125733889,
+        "id_str": "556008810125733889",
+        "text": "RT @libe: Etre ou ne pas \u00eatre Charlie : les hashtags en chiffres\u00a0#JeSuisCharlie #JeNeSuisPasCharlie\u00a0http:\/\/t.co\/SDWjgFOc1H http:\/\/t.co\/p441\u2026",
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 524720014,
+            "id_str": "524720014",
+            "name": "OptimusPrimus",
+            "screen_name": "Optimus__Primus",
+            "location": "Cybertron",
+            "profile_location": null,
+            "description": "Les humains c'est nul, surtout les beaufs de droite",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 189,
+            "friends_count": 704,
+            "listed_count": 10,
+            "created_at": "Wed Mar 14 20:53:25 +0000 2012",
+            "favourites_count": 228,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1593,
+            "lang": "fr",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/542067486477127681\/NNqLjH3X_normal.jpeg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/542067486477127681\/NNqLjH3X_normal.jpeg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/524720014\/1418073979",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "created_at": "Tue Jan 13 18:26:25 +0000 2015",
+            "id": 555068365904281600,
+            "id_str": "555068365904281600",
+            "text": "Etre ou ne pas \u00eatre Charlie : les hashtags en chiffres\u00a0#JeSuisCharlie #JeNeSuisPasCharlie\u00a0http:\/\/t.co\/SDWjgFOc1H http:\/\/t.co\/p441emgEQV",
+            "source": "\u003ca href=\"https:\/\/secure.echoboxapp.com\" rel=\"nofollow\"\u003eEchobox Social\u003c\/a\u003e",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 68440549,
+                "id_str": "68440549",
+                "name": "Lib\u00e9ration",
+                "screen_name": "libe",
+                "location": "Paris, France",
+                "profile_location": null,
+                "description": "Bienvenue sur le fil twitter officiel du journal Lib\u00e9ration.",
+                "url": "http:\/\/t.co\/naonbyZ9SL",
+                "entities": {
+                    "url": {
+                        "urls": [{
+                            "url": "http:\/\/t.co\/naonbyZ9SL",
+                            "expanded_url": "http:\/\/www.liberation.fr",
+                            "display_url": "liberation.fr",
+                            "indices": [0, 22]
+                        }]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1154350,
+                "friends_count": 136,
+                "listed_count": 10890,
+                "created_at": "Mon Aug 24 16:09:25 +0000 2009",
+                "favourites_count": 51,
+                "utc_offset": 3600,
+                "time_zone": "Paris",
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 61978,
+                "lang": "fr",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": true,
+                "profile_background_color": "242424",
+                "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/378800000087848371\/d19e3b65b2cf8f165699966c2f8e2abf.jpeg",
+                "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/378800000087848371\/d19e3b65b2cf8f165699966c2f8e2abf.jpeg",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/553545386715930624\/PyRvjuOy_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/553545386715930624\/PyRvjuOy_normal.jpeg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/68440549\/1421104947",
+                "profile_link_color": "C42121",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "FFFFFF",
+                "profile_text_color": "36322F",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 711,
+            "favorite_count": 249,
+            "entities": {
+                "hashtags": [{
+                    "text": "JeSuisCharlie",
+                    "indices": [55, 69]
+                }, {
+                    "text": "JeNeSuisPasCharlie",
+                    "indices": [70, 89]
+                }],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [{
+                    "url": "http:\/\/t.co\/SDWjgFOc1H",
+                    "expanded_url": "http:\/\/bit.ly\/1z6Bktm",
+                    "display_url": "bit.ly\/1z6Bktm",
+                    "indices": [90, 112]
+                }],
+                "media": [{
+                    "id": 555068365228625921,
+                    "id_str": "555068365228625921",
+                    "indices": [113, 135],
+                    "media_url": "http:\/\/pbs.twimg.com\/media\/B7P_vL-CUAE5Tq6.jpg",
+                    "media_url_https": "https:\/\/pbs.twimg.com\/media\/B7P_vL-CUAE5Tq6.jpg",
+                    "url": "http:\/\/t.co\/p441emgEQV",
+                    "display_url": "pic.twitter.com\/p441emgEQV",
+                    "expanded_url": "http:\/\/twitter.com\/libe\/status\/555068365904281600\/photo\/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 975,
+                            "h": 650,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 226,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 400,
+                            "resize": "fit"
+                        }
+                    }
+                }]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fr"
+        },
+        "retweet_count": 711,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [{
+                "text": "JeSuisCharlie",
+                "indices": [65, 79]
+            }, {
+                "text": "JeNeSuisPasCharlie",
+                "indices": [80, 99]
+            }],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "libe",
+                "name": "Lib\u00e9ration",
+                "id": 68440549,
+                "id_str": "68440549",
+                "indices": [3, 8]
+            }],
+            "urls": [{
+                "url": "http:\/\/t.co\/SDWjgFOc1H",
+                "expanded_url": "http:\/\/bit.ly\/1z6Bktm",
+                "display_url": "bit.ly\/1z6Bktm",
+                "indices": [100, 122]
+            }],
+            "media": [{
+                "id": 555068365228625921,
+                "id_str": "555068365228625921",
+                "indices": [139, 140],
+                "media_url": "http:\/\/pbs.twimg.com\/media\/B7P_vL-CUAE5Tq6.jpg",
+                "media_url_https": "https:\/\/pbs.twimg.com\/media\/B7P_vL-CUAE5Tq6.jpg",
+                "url": "http:\/\/t.co\/p441emgEQV",
+                "display_url": "pic.twitter.com\/p441emgEQV",
+                "expanded_url": "http:\/\/twitter.com\/libe\/status\/555068365904281600\/photo\/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 975,
+                        "h": 650,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 340,
+                        "h": 226,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 600,
+                        "h": 400,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 555068365904281600,
+                "source_status_id_str": "555068365904281600",
+                "source_user_id": 68440549,
+                "source_user_id_str": "68440549"
+            }]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+    }, {
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Jan 16 08:43:19 +0000 2015",
+        "id": 556008787518439424,
+        "id_str": "556008787518439424",
+        "text": "RT @batmankm: A little late to the cause but no less inspired and committed. #jesuischarlie http:\/\/t.co\/Dw68eEO26P",
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2745691699,
+            "id_str": "2745691699",
+            "name": "Antonia \u2661",
+            "screen_name": "blackyjacky77",
+            "location": "",
+            "profile_location": null,
+            "description": "i'm a really dumb teen who talks too much and wants to be left alone most of the time, lmao. artist. writer. idiot.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 18,
+            "friends_count": 138,
+            "listed_count": 0,
+            "created_at": "Tue Aug 19 16:58:04 +0000 2014",
+            "favourites_count": 284,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 272,
+            "lang": "ro",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/501775908081262593\/VbKl6m5A_normal.jpeg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/501775908081262593\/VbKl6m5A_normal.jpeg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2745691699\/1408468664",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Fri Jan 16 03:54:36 +0000 2015",
+            "id": 555936129284079616,
+            "id_str": "555936129284079616",
+            "text": "A little late to the cause but no less inspired and committed. #jesuischarlie http:\/\/t.co\/Dw68eEO26P",
+            "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 15585700,
+                "id_str": "15585700",
+                "name": "Kirk Manley",
+                "screen_name": "batmankm",
+                "location": "In my Studio working. ",
+                "profile_location": null,
+                "description": "Comic book artist, illustrator, designer and co-creator Z-Girl & the Four Tigers. http:\/\/t.co\/AXQbomXj http:\/\/t.co\/MQGoikTJ",
+                "url": "http:\/\/t.co\/gABTC00Nw3",
+                "entities": {
+                    "url": {
+                        "urls": [{
+                            "url": "http:\/\/t.co\/gABTC00Nw3",
+                            "expanded_url": "http:\/\/www.studiokm.com\/",
+                            "display_url": "studiokm.com",
+                            "indices": [0, 22]
+                        }]
+                    },
+                    "description": {
+                        "urls": [{
+                            "url": "http:\/\/t.co\/AXQbomXj",
+                            "expanded_url": "http:\/\/www.zgirl.org",
+                            "display_url": "zgirl.org",
+                            "indices": [82, 102]
+                        }, {
+                            "url": "http:\/\/t.co\/MQGoikTJ",
+                            "expanded_url": "http:\/\/www.theispot.com\/kmanley\/",
+                            "display_url": "theispot.com\/kmanley\/",
+                            "indices": [103, 123]
+                        }]
+                    }
+                },
+                "protected": false,
+                "followers_count": 1859,
+                "friends_count": 1316,
+                "listed_count": 46,
+                "created_at": "Thu Jul 24 17:51:10 +0000 2008",
+                "favourites_count": 29,
+                "utc_offset": -18000,
+                "time_zone": "Quito",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 8063,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/154683579\/twitter_1.png",
+                "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/154683579\/twitter_1.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/57177258\/batblogpic_normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/57177258\/batblogpic_normal.jpg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/15585700\/1398262795",
+                "profile_link_color": "273447",
+                "profile_sidebar_border_color": "FA0004",
+                "profile_sidebar_fill_color": "CF7310",
+                "profile_text_color": "8C2020",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 5,
+            "favorite_count": 9,
+            "entities": {
+                "hashtags": [{
+                    "text": "jesuischarlie",
+                    "indices": [63, 77]
+                }],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [{
+                    "id": 555936128772358146,
+                    "id_str": "555936128772358146",
+                    "indices": [78, 100],
+                    "media_url": "http:\/\/pbs.twimg.com\/media\/B7cU9rFIQAIh5zm.jpg",
+                    "media_url_https": "https:\/\/pbs.twimg.com\/media\/B7cU9rFIQAIh5zm.jpg",
+                    "url": "http:\/\/t.co\/Dw68eEO26P",
+                    "display_url": "pic.twitter.com\/Dw68eEO26P",
+                    "expanded_url": "http:\/\/twitter.com\/batmankm\/status\/555936129284079616\/photo\/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 340,
+                            "h": 587,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 723,
+                            "h": 1250,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 1037,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 5,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [{
+                "text": "jesuischarlie",
+                "indices": [77, 91]
+            }],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "batmankm",
+                "name": "Kirk Manley",
+                "id": 15585700,
+                "id_str": "15585700",
+                "indices": [3, 12]
+            }],
+            "urls": [],
+            "media": [{
+                "id": 555936128772358146,
+                "id_str": "555936128772358146",
+                "indices": [92, 114],
+                "media_url": "http:\/\/pbs.twimg.com\/media\/B7cU9rFIQAIh5zm.jpg",
+                "media_url_https": "https:\/\/pbs.twimg.com\/media\/B7cU9rFIQAIh5zm.jpg",
+                "url": "http:\/\/t.co\/Dw68eEO26P",
+                "display_url": "pic.twitter.com\/Dw68eEO26P",
+                "expanded_url": "http:\/\/twitter.com\/batmankm\/status\/555936129284079616\/photo\/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 340,
+                        "h": 587,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 723,
+                        "h": 1250,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 600,
+                        "h": 1037,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    }
+                },
+                "source_status_id": 555936129284079616,
+                "source_status_id_str": "555936129284079616",
+                "source_user_id": 15585700,
+                "source_user_id_str": "15585700"
+            }]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }, {
+        "metadata": {
+            "iso_language_code": "fr",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Jan 16 08:43:13 +0000 2015",
+        "id": 556008760138014720,
+        "id_str": "556008760138014720",
+        "text": "RT @RTLFrance: \"Je suis profond\u00e9ment heurt\u00e9 par l'utilisation mercantile qui est faite de #JeSuisCharlie\" @joachimroncin (cr\u00e9ateur du sloga\u2026",
+        "source": "\u003ca href=\"https:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android Tablets\u003c\/a\u003e",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1632917286,
+            "id_str": "1632917286",
+            "name": "Maria B",
+            "screen_name": "MariaBadin18",
+            "location": "",
+            "profile_location": null,
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 500,
+            "friends_count": 256,
+            "listed_count": 13,
+            "created_at": "Tue Jul 30 13:37:20 +0000 2013",
+            "favourites_count": 10,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 95609,
+            "lang": "fr",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/378800000214510897\/407eda7941ef96936060070e5c6a039a_normal.jpeg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/378800000214510897\/407eda7941ef96936060070e5c6a039a_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "created_at": "Fri Jan 16 07:28:07 +0000 2015",
+            "id": 555989861476630529,
+            "id_str": "555989861476630529",
+            "text": "\"Je suis profond\u00e9ment heurt\u00e9 par l'utilisation mercantile qui est faite de #JeSuisCharlie\" @joachimroncin (cr\u00e9ateur du slogan et du logo)",
+            "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 34294667,
+                "id_str": "34294667",
+                "name": "RTL France",
+                "screen_name": "RTLFrance",
+                "location": "France",
+                "profile_location": null,
+                "description": "News & Informations de la premi\u00e8re radio de France",
+                "url": "http:\/\/t.co\/jZ48lcOBID",
+                "entities": {
+                    "url": {
+                        "urls": [{
+                            "url": "http:\/\/t.co\/jZ48lcOBID",
+                            "expanded_url": "http:\/\/www.rtl.fr",
+                            "display_url": "rtl.fr",
+                            "indices": [0, 22]
+                        }]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 440610,
+                "friends_count": 150,
+                "listed_count": 3847,
+                "created_at": "Wed Apr 22 15:03:13 +0000 2009",
+                "favourites_count": 24,
+                "utc_offset": 3600,
+                "time_zone": "Paris",
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 128573,
+                "lang": "fr",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "CC0808",
+                "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/448760973839450112\/zXpE_y4s.jpeg",
+                "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/448760973839450112\/zXpE_y4s.jpeg",
+                "profile_background_tile": true,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/555023213323751425\/DVMdyUN4_normal.png",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/555023213323751425\/DVMdyUN4_normal.png",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/34294667\/1421162648",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "FFFFFF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 41,
+            "favorite_count": 11,
+            "entities": {
+                "hashtags": [{
+                    "text": "JeSuisCharlie",
+                    "indices": [75, 89]
+                }],
+                "symbols": [],
+                "user_mentions": [{
+                    "screen_name": "joachimroncin",
+                    "name": "joachim",
+                    "id": 70611214,
+                    "id_str": "70611214",
+                    "indices": [91, 105]
+                }],
+                "urls": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "fr"
+        },
+        "retweet_count": 41,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [{
+                "text": "JeSuisCharlie",
+                "indices": [90, 104]
+            }],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "RTLFrance",
+                "name": "RTL France",
+                "id": 34294667,
+                "id_str": "34294667",
+                "indices": [3, 13]
+            }, {
+                "screen_name": "joachimroncin",
+                "name": "joachim",
+                "id": 70611214,
+                "id_str": "70611214",
+                "indices": [106, 120]
+            }],
+            "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "fr"
+    }, {
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Jan 16 08:43:11 +0000 2015",
+        "id": 556008752714117120,
+        "id_str": "556008752714117120",
+        "text": "Paris #Fashion http:\/\/t.co\/ojt3X7N6YD \u007b#jesuischarlie, papa, coachella, elsa, fall, #ellemagazine, wolinski, photo, #love\u007d +81 fotos",
+        "source": "\u003ca href=\"http:\/\/postmodernnews.com\/Default.aspx?startpage=1\" rel=\"nofollow\"\u003ePMN Fashion\u003c\/a\u003e",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 198233341,
+            "id_str": "198233341",
+            "name": "PMN Fashion",
+            "screen_name": "PMN_Fashion",
+            "location": "",
+            "profile_location": null,
+            "description": "The fashion focus of PostModernNews\u2122 deconstructing fashion into a bag-of-words and a box-of-photos. \r\nBecome an EDITOR!",
+            "url": "http:\/\/t.co\/dSyp4uoKqK",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http:\/\/t.co\/dSyp4uoKqK",
+                        "expanded_url": "http:\/\/postmodernnews.com\/Default.aspx?startPage=0",
+                        "display_url": "postmodernnews.com\/Default.aspx?s\u2026",
+                        "indices": [0, 22]
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 150,
+            "friends_count": 62,
+            "listed_count": 17,
+            "created_at": "Sun Oct 03 18:42:29 +0000 2010",
+            "favourites_count": 2290,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2471,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/378800000221231313\/873aef0ae656cf47c7550c47ca7a41c6_normal.jpeg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/378800000221231313\/873aef0ae656cf47c7550c47ca7a41c6_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [{
+                "text": "Fashion",
+                "indices": [6, 14]
+            }, {
+                "text": "jesuischarlie",
+                "indices": [39, 53]
+            }, {
+                "text": "ellemagazine",
+                "indices": [84, 97]
+            }, {
+                "text": "love",
+                "indices": [116, 121]
+            }],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [{
+                "url": "http:\/\/t.co\/ojt3X7N6YD",
+                "expanded_url": "http:\/\/bit.ly\/1u8lzki",
+                "display_url": "bit.ly\/1u8lzki",
+                "indices": [15, 37]
+            }]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    }],
+    "search_metadata": {
+        "completed_in": 0.033,
+        "max_id": 556008895156875264,
+        "max_id_str": "556008895156875264",
+        "next_results": "?max_id=556008752714117119&q=JeSuisCharlie&include_entities=1",
+        "query": "JeSuisCharlie",
+        "refresh_url": "?since_id=556008895156875264&q=JeSuisCharlie&include_entities=1",
+        "count": 15,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}

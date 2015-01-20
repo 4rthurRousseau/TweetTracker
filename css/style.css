@@ -1,0 +1,55 @@
+#map{
+	/* Fixed properties */
+	position: fixed;
+	top:8%;
+	left:0px;
+	right: 40%;
+	
+	height:82%;
+	background-color: #006573;
+	border-top: 4px solid #c1c1c1;
+}
+
+#content{
+	/* Fixed properties */
+	position: fixed;
+	top:8%;
+	left:60%;
+	right:0px;
+	
+	padding:-10px;
+	overflow-y: scroll;
+	height:92%;
+	background-color: #F5F5F5;
+	border-top: 4px solid #c1c1c1;
+	border-left: 4px solid #c1c1c1;
+}
+
+#options {
+	/* Fixed properties */
+	position: fixed;
+	top:90%;
+	left:0px;
+	right:40%;
+	
+	height:10%;
+	background-color: #F5F5F5;
+	border-top: 4px solid #c1c1c1;
+}
+
+#parameters {
+  padding-top: 10px;
+  float:right;
+  display:inline;
+}
+
+
+#enable {
+	display: none;
+}
+
+div.tweet p{
+	padding:0px;
+	margin: 0px;
+}
+

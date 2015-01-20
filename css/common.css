@@ -1,0 +1,115 @@
+header {
+	/* Fixed properties */
+	position:fixed;
+	top:0px;
+	left:0px;
+	right:0px;
+	
+	height:8%;
+	background-color: #F5F5F5;
+	border-bottom: 4px solid #313131;
+}
+
+#title{
+	font-family: 'choplinMedium';
+	font-size: 44px;
+
+	color: rgba(0,0,0,0.6);
+    text-shadow: 2px 2px 3px rgba(255,255,255,0.1);
+}
+
+#content div:nth-child(odd){
+	background-color:#FFFFFF;
+}
+
+#content div:nth-child(even){
+	background-color:#015B7E ;
+}
+
+@font-face {
+	font-family: 'choplinMedium';
+	src: 
+		local('Choplin Medium.otf'),
+		local('Choplin-Medium'),
+		url('../font/Choplin-Medium.otf') 
+		format('opentype');
+}
+
+.ol-popup {
+  display: none;
+  background-color: white;
+  -moz-box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+  -webkit-filter: drop-shadow(0 1px 4px rgba(0,0,0,0.2));
+  filter: drop-shadow(0 1px 4px rgba(0,0,0,0.2));
+  padding: 15px;
+  border-radius: 10px;
+  border: 1px solid #cccccc;
+  bottom: 12px;
+  left: -50px;
+}
+
+#full > div > input[type="button"]{
+  display: inline;
+  width: 130px;
+  height: 42px;
+  background: #015b7e;
+  border: solid 1px #015b7e;
+  outline: none;
+  margin: 0 auto;
+  color: #fff;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 1px;
+  border-radius: 3px;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: .7em;
+  transition: all .2s ease;
+}
+
+#full > div > input[type="text"]{
+  display: inline;
+  width: 130px;
+  height: 40px;
+  border: solid 1px #c1c1c1;
+  margin: 0 auto;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 1px;
+  border-radius: 3px;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: .7em;
+  -webkit-transition: all 0.7s ease 0s;
+  -moz-transition: all 0.7s ease 0s;
+  -o-transition: all 0.7s ease 0s;
+  transition: all 0.7s ease 0s;
+}
+
+#parameters > input[type="text"]:focus{
+  border: solid 1px #015B7E;
+}
+
+#parameters > select {
+  display: inline;
+  width: 130px;
+  height: 42px;
+  background: #ffffff;
+  border: solid 1px #c1c1c1;
+  margin: 0 auto;
+  text-transform: uppercase;
+  outline: none;
+  margin: 0 auto;
+  color: #015b7e;
+  margin-bottom: 1px;
+  border-radius: 3px;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: .7em;
+}
+
+#enable {
+  display: hidden;
+  width: 40px;
+  height: 40px;
+}

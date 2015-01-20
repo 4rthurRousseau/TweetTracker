@@ -1,0 +1,97 @@
+#full > div > input[type="checkbox"]{
+  display : none
+}
+
+#full > div > input[type="checkbox"] + label{
+display: inline-block;
+  width: 42px;
+  height: 42px;
+  margin: 0 auto;
+  outline: none;
+  color: #c1c1c1;
+  margin-bottom: 1px;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 1.6em;
+}
+
+#full > div > input[type="checkbox"]:checked + label{
+  color: #006573;
+}
+
+#map{
+	/* Fixed properties */
+	position: fixed;
+	top:8%;
+	left:0px;
+	right: 0px;
+	
+	height:52%;
+	background-color: #006573;
+}
+
+#content{
+	/* Fixed properties */
+	position: fixed;
+	top:60%;
+	left:0px;
+	right:0px;
+	
+	height:40%;
+	padding:-10px;
+	overflow-y: scroll;
+	background-color: #F5F5F5;
+}
+
+#enable {
+	float: right;
+	margin-top: 3%;
+	display:inline-block;
+}
+
+#parameters {
+  padding-top: 10px;
+  float:right;
+  display:inline;
+	width: 100%;
+}
+
+#params + label {
+	display: inline-block;
+	float: right;
+}
+
+div.tweet p{
+	padding:0px;
+	margin: 0px;
+}
+
+header.expanded {
+	height:15%;
+}
+
+header.expanded input {
+	display: block;
+}
+
+header.expanded ~ #map-section #map {
+	top:22%;
+	height:35%;
+}
+
+header.expanded ~ #options {
+	/* Fixed properties */
+	position: fixed;
+	top:15%;
+	left:0px;
+	right:0px;
+	
+	height:7%;
+	background-color: #F5F5F5;
+	border-top: 4px solid #c1c1c1;
+}
+
+#full > div > input[type="checkbox"] + label{
+display: block;
+}
+
