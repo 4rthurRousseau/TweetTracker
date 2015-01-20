@@ -153,10 +153,8 @@ function getResults(keyword){
 		if (request.readyState == 4 && request.status == 200){
 			// Si on a récupéré des tweets
 			var response = JSON.parse(request.responseText);
-console.log(response);
-			if (JSON.parse(request.responseText).statuses != null){
-				var statuses = JSON.parse(request.responseText).statuses;
-				statuses.forEach(function(element, index, array){
+			if (response.statuses != null){
+				response.statuses.forEach(function(element, index, array){
 					appendTweet(element);
 				});
 			} else {
