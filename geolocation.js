@@ -186,11 +186,17 @@ function appendTweet(element){
 			// Création d'un nouveau span contenant le nom de l'auteur du tweet
 			var span = document.createElement('span');
 			span.className = "author";
-			span.innerHTML = element.user.name;
+			span.innerHTML = element.user.name + " ";
+
+			var a = document.createElement('a');
+			a.setAttribute("href", "http://www.twitter.com/" + element.user.screen_name);
+			a.innerHTML = "(@" + element.user.screen_name + ")";
 
 			// Création d'un nouveau paragraphe contenant le contenu du tweet
 			var p = document.createElement('p');
 			p.innerHTML = element.text;
+
+			span.appendChild(a);
 			div.appendChild(span);
 			div.appendChild(p);
 			content.insertBefore(div, content.firstChild);
